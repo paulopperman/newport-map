@@ -1,4 +1,4 @@
-#Newport Map App
+# Newport Map App
 
 A basic app for mapping Newport Data Project geospatial data.
 
